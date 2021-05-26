@@ -1,0 +1,1 @@
+{"name":"Local: li","url":"e:\\competitive programming solutions\\my-compititv-programing-solutions\\leetcode\\li.py","tests":[{"id":1621961125291,"input":"2 4 3\n5 6 4","output":"[7,0,8]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\competitive programming solutions\\my-compititv-programing-solutions\\leetcode\\li.py","group":"local","local":true}
