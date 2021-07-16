@@ -29,7 +29,7 @@
 
 #  using map()
 # # to convert number to list of integers
-# res = list(map(int, str(num)))
+#res = list(map(int, str(num)))
 
 
 
